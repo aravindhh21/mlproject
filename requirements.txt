@@ -5,4 +5,8 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
+Flask
 #-e .
+#-e is a connector with setup.py
+#it should work along when requirmnets is executed 
